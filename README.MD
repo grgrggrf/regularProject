@@ -1,6 +1,8 @@
 ######
 
-我的个人前端项目模板技术栈
+我的个人前端项目模板技术栈版本
+
+{
 "@hookform/resolvers": "^5.9.1",
 "@tailwindcss/vite": "^4.3.3",
 "@tanstack/react-query": "^5.103.2",
@@ -13,5 +15,6 @@
 "tailwindcss": "^4.3.3",
 "zod": "^4.6.5",
 "zustand": "^5.0.15"
+}
 
 #####
